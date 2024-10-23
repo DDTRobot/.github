@@ -14,14 +14,17 @@ Direct Drive Technology was found in 2020, committed to using direct drive motor
 
 Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as bipedal-wheel robot and quadruped-wheel robot. We also use the modualized designing method to design our robot.
 
-Here are some samples about our work in modulized bipedal-wheel robot and quadruped-wheel robot :
+[Official Website of Direct Drive Technology](https://directdrive.com/)
+[BILIBILI video website of the DDT](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0)
+[BILIBILI video website of the DDT Robotics Team](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
+
 
 
 Open Source Project
 
 | Title        | Descroption   |
 | --------   | -----:  | 
-| [tita simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita simulation environment based on webots, with windows and linux executable samples. | 
+| [TITA simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita simulation environment based on webots, with windows and linux executable samples. | 
 | [DIABLO simulation environment](https://github.com/DDTRobot/diablo-sim-env)        |    DIABLO simulation environment based on webots, including how to install webots by docker or on system   | 
 | [DIABLO ROS2 SDK](https://github.com/DDTRobot/diablo_ros2)        |    DIABLO ROS2 SDK to run on a real DIABLO robot    |
 |[DIABLO ROS1 SDK](https://github.com/DDTRobot/diablo_sdk)| DIABLO ROS1 SDK to run the real DIABLO robot |
@@ -29,6 +32,6 @@ Open Source Project
 |      [CMU Navigation based on DIABLO](https://github.com/DDTRobot/autonomy_stack_diablo_setup)  |    A navigation example on DIABLO, based on CMU Ji Zhang's work : [View the video](https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click)     |
 |[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Zhang's work : [View the video](https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click) |
 |[Control the P10 motor on TITA](https://github.com/DDTRobot/p10-ros2-node)| A ROS2 node to control a single P10 moto, which is a QDD motor developed by Direct Drive Technology|
-|  |  |
+| [Direct Drive motor control examples](https://github.com/DDTRobot/motor-driver-examples)  | Driver examples for M0602C and M1502D  |
 
 #### Noted : If you would like to control the DIABLO via its joint interface, please contact our FAE.
