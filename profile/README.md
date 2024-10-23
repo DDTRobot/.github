@@ -12,7 +12,7 @@
 -->
 Direct Drive Technology was found in 2020, committed to using direct drive motors to replace the reduction gear in any machine,making the original delicate and noisy traditonal robot reborn.
 
-Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as bipedal-wheel robot and quadruped-wheel robot. We also use the modualized designing method to design our robot.
+Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as bipedal-wheel robot and quadruped-wheel robot. We also use the [modualized designing method](https://www.bilibili.com/video/BV1gf42117yt/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539) to design our robot.
 
 [Official Website of Direct Drive Technology](https://directdrive.com/)
 
