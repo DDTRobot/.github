@@ -25,7 +25,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 [BILIBILI video website of the DDT Robotics Team](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
 
 
-🍿 Open Source Project
+### 🍿 Open Source Project
 
 | Title        | Descroption   |
 | --------   | -----:  | 
