@@ -15,9 +15,16 @@ Direct Drive Technology was found in 2020, committed to using direct drive motor
 Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as bipedal-wheel robot and quadruped-wheel robot. We also use the modualized designing method to design our robot.
 
 [Official Website of Direct Drive Technology](https://directdrive.com/)
+
+[Direct Drive Shop](https://shop.directdrive.com/)
+
+[Youtube for DDT](https://www.youtube.com/@directdrivetech4558)
+
 [BILIBILI video website of the DDT](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0)
+
 [BILIBILI video website of the DDT Robotics Team](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
 
+[]
 
 
 Open Source Project
