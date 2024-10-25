@@ -35,7 +35,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[DIABLO ROS1 SDK](https://github.com/DDTRobot/diablo_sdk)| DIABLO ROS1 SDK to run the real DIABLO robot |
 |      [TITA ROS2 SDK](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |       TITA ROS2 SDKto run a real TITA Robot, based on ubuntu 22.04              |
 |      [CMU Navigation based on DIABLO](https://github.com/DDTRobot/autonomy_stack_diablo_setup)  |    A navigation example on DIABLO, based on CMU Ji Zhang's work : [View the video](https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click)     |
-|[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Zhang's work : [View the video](https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click) |
+|[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video](https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click) |
 |[Control the P10 motor on TITA](https://github.com/DDTRobot/p10-ros2-node)| A ROS2 node to control a single P10 moto, which is a QDD motor developed by Direct Drive Technology|
 | [Direct Drive motor control examples](https://github.com/DDTRobot/motor-driver-examples)  | Driver examples for M0602C and M1502D  |
 
