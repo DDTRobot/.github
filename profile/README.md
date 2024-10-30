@@ -39,6 +39,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |      [TITA ROS2 SDK](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |       TITA ROS2 SDK to run a real TITA Robot, based on ubuntu 22.04              |
 |[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported.|
 |[TITA URDF Description for ROS2 Control Sim](https://github.com/DDTRobot/TITA_Description) |TITA URDF Description, mainly used by ros2 control sim |
+>* Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
 
 #### DIABLO
 | Title        | Descroption   |
