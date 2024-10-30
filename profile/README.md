@@ -26,7 +26,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 
 ### Update Info
-| Title        | Descroption   |
+| Date        | Brief info   |
 | --------   | -----  | 
 | 20241030|   1. Add TITA ROS2 Control Simulation environment <br>   2. Developer's repository updated. |
 
