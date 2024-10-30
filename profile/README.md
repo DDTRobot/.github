@@ -35,7 +35,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 #### TITA
 | Title        | Descroption   |
 | --------   | -----:  | 
-| [TITA Basic simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita basic simulation environment based on webots, with windows and linux executable samples.| 
+| [TITA basic simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita basic simulation environment based on webots, with windows and linux executable samples.| 
 |      [TITA ROS2 SDK](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |       TITA ROS2 SDK to run a real TITA Robot, based on ubuntu 22.04              |
 |[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported.|
 |[TITA URDF Description for ROS2 Control Sim](https://github.com/DDTRobot/TITA_Description) |TITA URDF Description, mainly used by ros2 control sim |
@@ -43,7 +43,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 #### DIABLO
 | Title        | Descroption   |
 | --------   | -----:  | 
-| [DIABLO simulation environment](https://github.com/DDTRobot/diablo-sim-env)        |    DIABLO simulation environment based on webots, including how to install webots by docker or on system   | 
+| [DIABLO basic simulation environment](https://github.com/DDTRobot/diablo-sim-env)        |    DIABLO simulation environment based on webots, including how to install webots by docker or on system   | 
 | [DIABLO ROS2 SDK](https://github.com/DDTRobot/diablo_ros2)        |    DIABLO ROS2 SDK to run on a real DIABLO robot    |
 |[DIABLO ROS1 SDK](https://github.com/DDTRobot/diablo_sdk)| DIABLO ROS1 SDK to run the real DIABLO robot |
 
