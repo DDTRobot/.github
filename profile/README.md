@@ -14,6 +14,8 @@ Direct Drive Technology was found in 2020, committed to using direct drive motor
 
 Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as [bipedal-wheel robot](https://www.bilibili.com/video/BV1tM4y1Z7VY?spm_id_from=player_end_recommend_autoplay&vd_source=8ab3473c3214c5120c93d5ac5fbba539) and [quadruped-wheel robot](https://www.bilibili.com/video/BV1Pn4y1R7eg/?spm_id_from=333.337.search-card.all.click). We also use the [modualized designing method](https://www.bilibili.com/video/BV1gf42117yt/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539) to design our robot.
 
+
+
 [Official Website of Direct Drive Technology](https://directdrive.com/)
 
 [Direct Drive Shop](https://shop.directdrive.com/)
@@ -23,6 +25,14 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 [BILIBILI video website of the DDT](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0)
 
 [BILIBILI video website of the DDT Robotics Team](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
+
+[TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )
+[TITA Manual - English version](https://tita-development-manual-ye.readthedocs.io/en/latest/ )
+[TITA Development Mannual - English version](hedocs.io/en/latest/ )
+
+
+
+> *Note: Since Sept. 2024, All TITA is switched to Ubuntu version. If you are with the Yocto version, refer [here](https://tita-development-manual-ye.readthedocs.io/en/latest/ ) 
 
 
 ### Update Info
