@@ -30,9 +30,10 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 #### TITA
 | Title        | Descroption   |
 | --------   | -----:  | 
-| [TITA simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita simulation environment based on webots, with windows and linux executable samples. | 
+| [TITA Basic simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita basic simulation environment based on webots, with windows and linux executable samples.| 
 |      [TITA ROS2 SDK](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |       TITA ROS2 SDK to run a real TITA Robot, based on ubuntu 22.04              |
-(https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click) |
+|[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported.|
+|[TITA URDF Description for ROS2 Control Sim](https://github.com/DDTRobot/TITA_Description) |TITA URDF Description, mainly used by ros2 control sim |
 #### DIABLO
 | Title        | Descroption   |
 | --------   | -----:  | 
@@ -52,7 +53,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | Title        | Descroption   |
 | --------   | -----:  | 
 |      [CMU Navigation based on DIABLO](https://github.com/DDTRobot/autonomy_stack_diablo_setup)  |    A navigation example on DIABLO, based on CMU Ji Zhang's work : [View the video](https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click)     |
-|[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video] |
-|[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video] |
+|[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video]((https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click)) |
+|[TITA CAN Interface sample](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video] |
 >* Note : The developer's repository is not officialy maintained.
 >* Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.
