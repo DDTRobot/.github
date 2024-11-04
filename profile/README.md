@@ -41,7 +41,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | Date        | Brief info   |
 | --------   | -----  | 
 | 20241030|   1. Add TITA ROS2 Control Simulation environment <br>   2. Developer's repository updated. |
-|2021104| Add ros2 control interface for joint control in the orin nx of TITA|
+|20241104| Add ros2 control interface for joint control in the orin nx of TITA|
 
 ### 🍿 Officially Maintained Repositories
 
