@@ -52,6 +52,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported.|
 |[TITA URDF Description for ROS2 Control Sim](https://github.com/DDTRobot/TITA_Description) |TITA URDF Description, mainly used by ros2 control sim |
 |[TITA ROS2 Control Low level Interface](https://github.com/DDTRobot/tita_hardware_ros2_control)| TITA ROS2 Control Low level interface. Deployed on the Orin NX in TITA|
+|[TITA Remote Control Pairing Script](https://github.com/DirectDriveTech-DDT/TITA-RC-Pairing)|Script for Updating the TITA Remote Control pairing.|
 >* Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
 
 #### DIABLO
