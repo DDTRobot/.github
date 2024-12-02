@@ -42,6 +42,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 20241030|   1. Add TITA ROS2 Control Simulation environment <br>   2. Developer's repository updated. |
 |20241104| Add ros2 control interface for joint control in the orin nx of TITA|
 |20241127|1. Fix bug link of TITA Manual's English version 2. Add TITA's RC pairing script 3. Add TITA's OTA script|
+|20241202|Add DIABLO ROS2 MATLAB Control example|
 
 ### 🍿 Officially Maintained Repositories
 
@@ -79,5 +80,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video]((https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click)) |
 |[TITA CAN Interface sample](https://github.com/DDTRobot/Col_TITA_CAN_Inerface)| TITA CAN interface sample, use usb2can to control TITA's movement, without installing ROS or ROS2 |
 |[DIABLO RL-sample](https://github.com/DDTRobot/Col_DIABLO_Issac_RL) | DIABLO RL training sample on ISSAC Gym, based on Siyang Liu's work : [view the video](https://www.bilibili.com/video/BV1WES1YwE1f/?spm_id_from=333.337.search-card.all.click)  |
+|[DIABLO ROS2 MATLAB Sample](https://github.com/DDTRobot/diablo_matlab_ros2)|MATLAB Control sample, using high level api of DIABLO to control, based on ROS2|
 >* Note : The developer's repository is not officialy maintained.
 >* Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.
