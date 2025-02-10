@@ -44,7 +44,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20241127|1. Fix bug link of TITA Manual's English version 2. Add TITA's RC pairing script 3. Add TITA's OTA script|
 |20241202|Add DIABLO ROS2 MATLAB Control example|
 |20241204|Add TITA ROS2 MATLAB Control example|
-|2025021|Add Airbot robotics arm control samples|
+|20250210|Add Airbot robotics arm control samples|
 
 ### 🍿 Officially Maintained Repositories
 
