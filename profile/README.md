@@ -57,7 +57,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[TITA ROS2 Control Low level Interface](https://github.com/DDTRobot/tita_hardware_ros2_control)| TITA ROS2 Control Low level interface. Deployed on the Orin NX in TITA|
 |[TITA Remote Control Pairing Script](https://github.com/DDTRobot/TITA-RC-Pairing)|Script for Updating the TITA Remote Control pairing. Install on TITA's main board|
 |[TITA OTA Script](https://github.com/DDTRobot/TITA-OTA)| Script for updating TITA's MCU board. Install on TITA's main board|
->* Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
+|[Airbot robotics arm control on TITA](https://github.com/DDTRobot/airbot_on_tita)| ROS node for controlling the Airbot arm on TITA |
+|[Use joystick to control the arm on TITA](https://github.com/DDTRobot/airbot_joy)|ROS node for controlling the Airbot arm with TITA's joystick|
+> Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
 
 #### DIABLO
 | Title        | Descroption   |
