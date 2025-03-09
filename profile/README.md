@@ -54,7 +54,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 #### TITA
 | Title        | Descroption   |
-| --------   | -----:  | 
+| --------   |:----- | 
 | [TITA basic simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita basic simulation environment based on webots, with windows and linux executable samples.| 
 |      [TITA ROS2 SDK Demo](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |      A quick start demo that run on TITA ROS2 SDK in real TITA Robot. Only supported in Ubuntu!!              |
 |[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported.|
@@ -69,7 +69,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 #### DIABLO
 | Title        | Descroption   |
-| --------   | -----:  | 
+| --------   |:----- | 
 | [DIABLO basic simulation environment](https://github.com/DDTRobot/diablo-sim-env)        |    DIABLO simulation environment based on webots, including how to install webots by docker or on system   | 
 | [DIABLO ROS2 SDK](https://github.com/DDTRobot/diablo_ros2)        |    DIABLO ROS2 SDK to run on a real DIABLO robot    |
 |[DIABLO ROS1 SDK](https://github.com/DDTRobot/diablo_sdk)| DIABLO ROS1 SDK to run the real DIABLO robot |
@@ -78,13 +78,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 #### Motors
 | Title        | Descroption   |
-| --------   | -----:  | 
+| --------   | :------ | 
 |[Control the P10 motor on TITA](https://github.com/DDTRobot/p10-ros2-node)| A ROS2 node to control a single P10 moto, which is a QDD motor developed by Direct Drive Technology|
 | [Direct Drive motor control examples](https://github.com/DDTRobot/motor-driver-examples)  | Driver examples for M0602C and M1502D  |
 
 ### 🧙 Recommended Developer's Repository
 | Title        | Descroption   |
-| --------   | -----:  | 
+| --------   | :-----  | 
 |      [CMU Navigation based on DIABLO](https://github.com/DDTRobot/autonomy_stack_diablo_setup)  |    A navigation example on DIABLO, based on CMU Ji Zhang's work : [View the video](https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click)     |
 |[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video]((https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click)) |
 |[TITA CAN Interface sample](https://github.com/DDTRobot/Col_TITA_CAN_Inerface)| TITA CAN interface sample, use usb2can to control TITA's movement, without installing ROS or ROS2 |
