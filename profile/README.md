@@ -87,7 +87,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | --------   | :-----  | 
 |      [CMU Navigation based on DIABLO](https://github.com/DDTRobot/autonomy_stack_diablo_setup)  |    A navigation example on DIABLO, based on CMU Ji Zhang's work : [View the video](https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click)     |
 |[People Tracking](https://github.com/DDTRobot/DIABLO_People_Tracking)| A people tracking function on DIABLO, base on Shiyang Liu's work : [View the video](https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click) |
-|[TITA CAN Interface sample](https://github.com/DDTRobot/Col_TITA_CAN_Inerface)| TITA CAN interface sample, use usb2can to control TITA's movement, without installing ROS or ROS2 |
+|[TITA CAN Interface sample](https://github.com/DDTRobot/Col_TITA_CAN_Inerface)| TITA CAN interface sample, use usb2canfd or inner Jetson Orin NX to control TITA's movement, without installing ROS or ROS2 |
 |[DIABLO RL-sample](https://github.com/DDTRobot/Col_DIABLO_Issac_RL) | DIABLO RL training sample on ISSAC Gym, based on Siyang Liu's work : [view the video](https://www.bilibili.com/video/BV1WES1YwE1f/?spm_id_from=333.337.search-card.all.click)  |
 |[DIABLO ROS2 MATLAB Sample](https://github.com/DDTRobot/diablo_matlab_ros2)|MATLAB Control sample, using high level api of DIABLO to control, based on ROS2|
 |[TITA ROS2 MATLAB Sample](https://github.com/DDTRobot/tita_matlab_ros2)|TITA's MATLAB Control sample, using high level api of TITA to control, based on ROS2 |
