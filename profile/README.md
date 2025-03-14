@@ -48,7 +48,8 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20241204|Add TITA ROS2 MATLAB Control example|
 |20250210|Add Airbot robotics arm control samples|
 |20250226|Add Extension Board hardware opensource|
-|20250309|Add Official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b|
+|20250309|Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b|
+|20250314|Add official TITA CANFD reading examples|
 
 ### 🍿 Officially Maintained Repositories
 
@@ -65,7 +66,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[Airbot robotics arm control on TITA](https://github.com/DDTRobot/airbot_on_tita)| ROS node for controlling the Airbot arm on TITA |
 |[Use joystick to control the arm on TITA](https://github.com/DDTRobot/airbot_joy)|ROS node for controlling the Airbot arm with TITA's joystick|
 |**[TITA RL](https://github.com/DDTRobot/tita_rl)**|**Officially support TITA reinforcement learning environment, as well as the TITATIT-Quadruped mode environment**🌈|
-|[TITA CANFD Interface](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|Directly read the CANFD information from TITA. You can choose either your PC or TITA's inner Orin Nx|
+|[TITA CANFD Interface](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|**Directly read the CANFD information from TITA. You can choose either your PC or TITA's inner Orin Nx**🌈|
 > Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
 
 #### DIABLO
