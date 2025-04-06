@@ -51,6 +51,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20250309|[Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b](https://github.com/DDTRobot/tita_rl)|
 |20250314|[Add official TITA CANFD reading examples](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|
 |20250328|[Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
+|20250407|Fix bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 
 ### 🍿 Officially Maintained Repositories
 
