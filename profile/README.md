@@ -56,21 +56,26 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 ### 🍿 Officially Maintained Repositories
 
 #### TITA
+##### Simulation
 | Title        | Descroption   |
 | --------   |:----- | 
-| [TITA basic simulation environment](https://github.com/DDTRobot/tita-sim-env)     | tita basic simulation environment based on webots, with windows and linux executable samples. ![Github stars](https://img.shields.io/github/stars/DDTRobot/tita-sim-env.svg)| 
-|      [TITA ROS2 SDK Demo](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |      A quick start demo that run on TITA ROS2 SDK in real TITA Robot. Only supported in Ubuntu!!               ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA-SDK-ROS2.svg)|
+| [TITA basic simulation environment](https://github.com/DDTRobot/tita-sim-env) | tita basic simulation environment based on webots, with windows and linux executable samples. ![Github stars](https://img.shields.io/github/stars/DDTRobot/tita-sim-env.svg)| 
+| [TITA ROS2 SDK Demo](https://github.com/DDTRobot/TITA-SDK-ROS2)                 |      A quick start demo that run on TITA ROS2 SDK in real TITA Robot. Only supported in Ubuntu!!               ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA-SDK-ROS2.svg)|
 |[TITA ROS2 Control Sim](https://github.com/DDTRobot/TITA_ROS2_Control_Sim) | TITA ROS2 Control simulation environment. Webots and Gazebo Supported. ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA_ROS2_Control_Sim.svg)|
 |[TITA URDF Description for ROS2 Control Sim](https://github.com/DDTRobot/TITA_Description) |TITA URDF Description, mainly used by ros2 control sim. ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA_Description.svg) |
+|**[TITA RL](https://github.com/DDTRobot/tita_rl)**|**Officially support TITA reinforcement learning environment, as well as the TITATIT-Quadruped mode environment**  ![Github stars](https://img.shields.io/github/stars/DDTRobot/tita_rl.svg)|
+> Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
+
+##### Tools
+| Title        | Descroption   |
+| --------   |:----- | 
 |[TITA ROS2 Control Low level Interface](https://github.com/DDTRobot/tita_hardware_ros2_control)| TITA ROS2 Control Low level interface. Deployed on the Orin NX in TITA. ![Github stars](https://img.shields.io/github/stars/DDTRobot/tita_hardware_ros2_control.svg)|
 |[TITA Remote Control Pairing Script](https://github.com/DDTRobot/TITA-RC-Pairing)|Script for Updating the TITA Remote Control pairing. Install on TITA's main board|
 |[TITA OTA Script](https://github.com/DDTRobot/TITA-OTA)| Script for updating TITA's MCU board. Install on TITA's main board|
 |[Airbot robotics arm control on TITA](https://github.com/DDTRobot/airbot_on_tita)| ROS node for controlling the Airbot arm on TITA. ![Github stars](https://img.shields.io/github/stars/DDTRobot/airbot_on_tita.svg)|
 |[Use joystick to control the arm on TITA](https://github.com/DDTRobot/airbot_joy)|ROS node for controlling the Airbot arm with TITA's joystick.  ![Github stars](https://img.shields.io/github/stars/DDTRobot/airbot_joy.svg)|
-|**[TITA RL](https://github.com/DDTRobot/tita_rl)**|**Officially support TITA reinforcement learning environment, as well as the TITATIT-Quadruped mode environment**  ![Github stars](https://img.shields.io/github/stars/DDTRobot/tita_rl.svg)|
 |[TITA CANFD Interface](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|**Directly read the CANFD information from TITA. You can choose either your PC or TITA's inner Orin Nx** ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA_CAN_Inerface.svg)|
 > Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
-
 #### DIABLO
 | Title        | Descroption   |
 | --------   |:----- | 
