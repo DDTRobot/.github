@@ -51,7 +51,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20250328|[Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 |20250407|Fix docker support bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 |20250414|Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)|
-|20250611|Add [TITA app](https://github.com/DDTRobot/tita-app) based on Bluetooth on TITA|
 
 ### 🍿 Officially Maintained Repositories
 
@@ -75,7 +74,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[Airbot robotics arm control on TITA](https://github.com/DDTRobot/airbot_on_tita)| ROS node for controlling the Airbot arm on TITA. ![Github stars](https://img.shields.io/github/stars/DDTRobot/airbot_on_tita.svg)|
 |[Use joystick to control the arm on TITA](https://github.com/DDTRobot/airbot_joy)|ROS node for controlling the Airbot arm with TITA's joystick.  ![Github stars](https://img.shields.io/github/stars/DDTRobot/airbot_joy.svg)|
 |[TITA CANFD Interface](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|**Directly read the CANFD information from TITA. You can choose either your PC or TITA's inner Orin Nx** ![Github stars](https://img.shields.io/github/stars/DDTRobot/TITA_CAN_Inerface.svg)|
-|[TITA app]([https://github.com/DirectDriveTech-DDT/tita-ap](https://github.com/DDTRobot/tita-app)p)|A TITA apk used on Android, allows to control TITA on your Android smartphone.|
 > Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.
 #### DIABLO
 | Title        | Descroption   |
@@ -101,5 +99,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[DIABLO ROS2 MATLAB Sample](https://github.com/DDTRobot/diablo_matlab_ros2)|MATLAB Control sample, using high level api of DIABLO to control, based on ROS2|
 |[TITA ROS2 MATLAB Sample](https://github.com/DDTRobot/tita_matlab_ros2)|TITA's MATLAB Control sample, using high level api of TITA to control, based on ROS2 |
 |[TITA Walking Reinforcement Learning](https://github.com/DDTRobot/TITA_ISAACGYM_DRL)|TITA example on walking based on Isaacgym, [view the video](https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539)|
+|[TITA app]([https://github.com/DirectDriveTech-DDT/tita-ap](https://github.com/DDTRobot/tita-app)p)|A TITA apk used on Android, allows to control TITA on your Android smartphone.|
 >* Note : The developer's repository is not officialy maintained.
 >* Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.
