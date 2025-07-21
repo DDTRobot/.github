@@ -100,5 +100,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |[TITA ROS2 MATLAB Sample](https://github.com/DDTRobot/tita_matlab_ros2)|TITA's MATLAB Control sample, using high level api of TITA to control, based on ROS2 |
 |[TITA Walking Reinforcement Learning](https://github.com/DDTRobot/TITA_ISAACGYM_DRL)|TITA example on walking based on Isaacgym, [view the video](https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539)|
 |[TITA app](https://github.com/DDTRobot/tita-app)|A TITA apk used on Android, allows to control TITA on your Android smartphone.|
+|[TITA UWB follower](https://github.com/DDTRobot/tita_uwb_follower)|A TITA follower using UWB, which can let the robot follows the tag|
 >* Note : The developer's repository is not officialy maintained.
 >* Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.
