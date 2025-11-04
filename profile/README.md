@@ -51,6 +51,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20250328|[Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 |20250407|Fix docker support bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 |20250414|Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)|
+|20251104|Update RL training of [titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)|
 
 ### 🍿 Officially Maintained Repositories
 
