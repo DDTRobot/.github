@@ -28,7 +28,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 #### TITA
 
 [TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
+
 [TITA Manual - English version](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)  
+
 [TITA Extension Board Opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
 
 

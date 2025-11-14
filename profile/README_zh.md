@@ -20,8 +20,10 @@
 #### TITA
 
 [TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
-[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)  
-[TITA 扩展板开源硬件](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
+
+[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/) 
+ 
+[TITA 扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
 
 > *注：自 2024 年 9 月起，TITA所有系统均已切换至 Ubuntu。若想使用 Yocto 版本，请参考[此处](https://tita-development-manual-ye.readthedocs.io/en/latest/ )。*
 
@@ -83,7 +85,7 @@
     <td><a href="https://github.com/DDTRobot/TITA-SDK-ROS2"><img src="https://img.shields.io/github/stars/DDTRobot/TITA-SDK-ROS2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DDTRobot/tita_hardware_ros2_control">TITA ROS2 Control 底层硬件接口</a></td>
+    <td><a href="https://github.com/DDTRobot/tita_hardware_ros2_control">TITA ROS2 Control 底层接口</a></td>
     <td>TITA 的 ROS2 Control 底层接口，部署在 TITA 内部的 Orin NX 上。</td>
     <td><a href="https://github.com/DDTRobot/tita_hardware_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/tita_hardware_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
@@ -141,11 +143,11 @@
 	<td rowspan='2'>MOTOR</td>
   	<td rowspan='2'>Tools</td>
 	<td><a href="https://github.com/DDTRobot/p10-ros2-node">在 TITA 上控制 P10 电机</a></td>
-    <td>用于控制单个 P10 电机的 ROS2 节点，P10 是 Direct Drive Technology 自研的 QDD 电机</td>
+    <td>用于控制单个 P10 电机的 ROS2 节点，P10 是本末科技自研的准直驱电机</td>
     <td><a href="https://github.com/DDTRobot/p10-ros2-node"><img src="https://img.shields.io/github/stars/ddtrobot/p10-ros2-node.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
-	<td><a href="https://github.com/DDTRobot/motor-driver-examples">Direct Drive 电机驱动示例</a></td>
+	<td><a href="https://github.com/DDTRobot/motor-driver-examples">电机驱动示例</a></td>
     <td>M0602C 和 M1502D 的驱动示例</td>
     <td><a href="https://github.com/DDTRobot/motor-driver-examples"><img src="https://img.shields.io/github/stars/ddtrobot/motor-driver-examples.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
