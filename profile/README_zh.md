@@ -9,7 +9,7 @@
 
 本末机器人成立于 2022 年，主要聚焦移动机器人，采用模块化设计方法进行机器人研发，例如[双轮足](https://www.bilibili.com/video/BV1tM4y1Z7VY?spm_id_from=player_end_recommend_autoplay&vd_source=8ab3473c3214c5120c93d5ac5fbba539)和[四轮足](https://www.bilibili.com/video/BV1Pn4y1R7eg/?spm_id_from=333.337.search-card.all.click)机器人。
 
-[![Website](https://img.shields.io/badge/Official Website-0052CC?style=flat&logo=google-chrome)](https://directdrive.com/) [![Shop](https://img.shields.io/badge/%20Shop-8A2BE2?style=flat&logo=shopee)](https://shop.directdrive.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://space.bilibili.com/2110984062) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT Robotics Team-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
+[![Website](https://img.shields.io/badge/Official%20Website-0052CC?style=flat&logo=google-chrome)](https://directdrive.com/) [![Shop](https://img.shields.io/badge/%20Shop-8A2BE2?style=flat&logo=shopee)](https://shop.directdrive.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://space.bilibili.com/2110984062) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT%20Robotics%20Team-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
 
 ### 开发手册
 
@@ -168,7 +168,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/TITA_ISAACGYM_DRL">TITA 行走强化学习</a></td>
-  	<td>基于 Isaacgym 的 TITA 行走强化学习示例，<a href="https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539">点击查看视频</a></td>
+  	<td>基于 Isaacgym 的 TITA 行走强化学习示例：<a href="https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539">点击查看视频</a></td>
   	<td><a href="https://github.com/DDTRobot/TITA_ISAACGYM_DRL"><img src="https://img.shields.io/github/stars/ddtrobot/TITA_ISAACGYM_DRL.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
@@ -203,8 +203,7 @@
   	<td><a href="https://github.com/DDTRobot/diablo_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/diablo_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-  	<td colspan='4'><blockquote><small><h4>● 注：以上开发者仓库并非官方维护。
-● 在这些仓库提交的 Issue 会同步给相关开发者，欢迎反馈。</h4></small></blockquote></td>
+  	<td colspan='4'><blockquote><small><h4>● 注：以上开发者仓库并非官方维护。<br>● 在这些仓库提交的 Issue 会同步给相关开发者，欢迎反馈。</h4></small></blockquote></td>
   </tr>
 </table>
 

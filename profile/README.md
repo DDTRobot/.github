@@ -17,7 +17,7 @@ Direct Drive Technology was found in 2020, committed to using direct drive motor
 
 Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as [bipedal-wheel robot](https://www.bilibili.com/video/BV1tM4y1Z7VY?spm_id_from=player_end_recommend_autoplay&vd_source=8ab3473c3214c5120c93d5ac5fbba539) and [quadruped-wheel robot](https://www.bilibili.com/video/BV1Pn4y1R7eg/?spm_id_from=333.337.search-card.all.click). We also use the [modualized designing method](https://www.bilibili.com/video/BV1gf42117yt/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539) to design our robot.
 
-[![Website](https://img.shields.io/badge/Official Website-0052CC?style=flat&logo=google-chrome)](https://directdrive.com/) [![Shop](https://img.shields.io/badge/%20Shop-8A2BE2?style=flat&logo=shopee)](https://shop.directdrive.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://space.bilibili.com/2110984062) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT Robotics Team-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
+[![Website](https://img.shields.io/badge/Official%20Website-0052CC?style=flat&logo=google-chrome)](https://directdrive.com/) [![Shop](https://img.shields.io/badge/%20Shop-8A2BE2?style=flat&logo=shopee)](https://shop.directdrive.com/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://space.bilibili.com/2110984062) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/2110984062?spm_id_from=333.337.0.0) [![Bilibili](https://img.shields.io/badge/Bilibili-DDT%20Robotics%20Team-00A1D6?-style=flat&logo=bilibili&logoColor=white&labelColor=FB7299)](https://space.bilibili.com/3546755798928026?spm_id_from=333.337.0.0)
 
 ### Manual
 
@@ -179,7 +179,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/TITA_ISAACGYM_DRL">TITA Walking Reinforcement Learning</a></td>
-  	<td>TITA example on walking based on Isaacgym,<a href="https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539">View the video</a></td>
+  	<td>TITA example on walking based on Isaacgym: <a href="https://www.bilibili.com/video/BV1FfBAYyEnx/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539">View the video</a></td>
   	<td><a href="https://github.com/DDTRobot/TITA_ISAACGYM_DRL"><img src="https://img.shields.io/github/stars/ddtrobot/TITA_ISAACGYM_DRL.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
@@ -195,17 +195,17 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   <tr>
     <td rowspan='4'>DIABLO</td>
     <td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup">CMU Navigation based on DIABLO</a></td>
-  	<td>A navigation example on DIABLO, based on CMU Ji Zhang's work :<a href="https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click">View the video</a></td>
+  	<td>A navigation example on DIABLO, based on CMU Ji Zhang's work: <a href="https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click">View the video</a></td>
   	<td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup"><img src="https://img.shields.io/github/stars/ddtrobot/autonomy_stack_diablo_setup.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/DIABLO_People_Tracking">People Tracking</a></td>
-  	<td>A people tracking function on DIABLO, base on Shiyang Liu's work :<a href="https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click">View the video</a></td>
+  	<td>A people tracking function on DIABLO, base on Shiyang Liu's work: <a href="https://www.bilibili.com/video/BV1BZtWebEWF/?spm_id_from=333.337.search-card.all.click">View the video</a></td>
   	<td><a href="https://github.com/DDTRobot/DIABLO_People_Tracking"><img src="https://img.shields.io/github/stars/ddtrobot/DIABLO_People_Tracking.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/Col_DIABLO_Issac_RL">DIABLO RL-sample</a></td>
-  	<td>DIABLO RL training sample on ISSAC Gym, based on Siyang Liu's work : <a href="https://www.bilibili.com/video/BV1WES1YwE1f/?spm_id_from=333.337.search-card.all.click">View the video</a></td>
+  	<td>DIABLO RL training sample on ISSAC Gym, based on Siyang Liu's work: <a href="https://www.bilibili.com/video/BV1WES1YwE1f/?spm_id_from=333.337.search-card.all.click">View the video</a></td>
   	<td><a href="https://github.com/DDTRobot/Col_DIABLO_Issac_RL"><img src="https://img.shields.io/github/stars/ddtrobot/Col_DIABLO_Issac_RL.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
@@ -214,8 +214,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   	<td><a href="https://github.com/DDTRobot/diablo_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/diablo_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-  	<td colspan='4'><blockquote><small><h4>● Note : yuan'quanThe developer's repository is not officialy maintained.
-● Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.</h4></small></blockquote></td>
+  	<td colspan='4'><blockquote><small><h4>● Note : yuan'quanThe developer's repository is not officialy maintained.<br>● Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.</h4></small></blockquote></td>
   </tr>
 </table>
 
