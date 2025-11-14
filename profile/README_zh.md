@@ -15,7 +15,7 @@
 
 #### D-Infinite
 
-[D-Infinite手册 - 中文版](https://d1-development-manual-cn.readthedocs.io/en/latest/index.html)
+[D-Infinite 手册 - 中文版](https://d1-development-manual-cn.readthedocs.io/en/latest/index.html)
 
 #### TITA
 
