@@ -19,9 +19,9 @@
 
 #### TITA
 
-[TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )
-[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)
-[TITA 扩展板开源硬件](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)
+[TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
+[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)  
+[TITA 扩展板开源硬件](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
 
 > *注：自 2024 年 9 月起，TITA所有系统均已切换至 Ubuntu。若想使用 Yocto 版本，请参考[此处](https://tita-development-manual-ye.readthedocs.io/en/latest/ )。*
 

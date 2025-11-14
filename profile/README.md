@@ -27,11 +27,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 #### TITA
 
-[TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )
-
-[TITA Manual - English version](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)
-
-[TITA Extension Board Opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)
+[TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
+[TITA Manual - English version](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)  
+[TITA Extension Board Opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
 
 
 > *Note: Since Sept. 2024, All TITA is switched to Ubuntu version. If you are with the Yocto version, refer [here](https://tita-development-manual-ye.readthedocs.io/en/latest/ ) 
