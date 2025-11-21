@@ -55,12 +55,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 ### 🍿 Officially Maintained Repositories
 <table>
-  <style>
-    .robot-col {
-      white-space: nowrap;
-      text-align: center;
-    }
-  </style>
   <tr>
     <th>Robot</th>
   	<th>Type</th>
@@ -69,7 +63,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='1' class="robot-col">D-INFINITE</td>
+    <td rowspan='1'>D&#8209;INFINITE</td>
   	<td rowspan='1'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
@@ -178,12 +172,6 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 ### 🧙 Recommended Developer's Repository
 <table>
-  <style>
-    .robot-col {
-      white-space: nowrap; /* 不换行 */
-      text-align: center;  /* 水平居中 */
-    }
-  </style>
   <tr>
     <th>Robot</th>
     <th>Title</th>

@@ -46,12 +46,6 @@
 
 ### 🍿 官方维护的代码仓库
 <table>
-  <style>
-    .robot-col {
-      white-space: nowrap;
-      text-align: center;
-    }
-  </style>
   <tr>
     <th>机器人</th>
   	<th>类型</th>
@@ -169,12 +163,6 @@
 
 ### 🧙 推荐的开发者仓库
 <table>
-  <style>
-    .robot-col {
-      white-space: nowrap; /* 不换行 */
-      text-align: center;  /* 水平居中 */
-    }
-  </style>
   <tr>
     <th>机器人</th>
     <th>项目名称</th>
