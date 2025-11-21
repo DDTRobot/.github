@@ -22,7 +22,7 @@
 [TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
 
 [TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/) 
- 
+
 [TITA 扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
 
 > *注：自 2024 年 9 月起，TITA所有系统均已切换至 Ubuntu。若想使用 Yocto 版本，请参考[此处](https://tita-development-manual-ye.readthedocs.io/en/latest/ )。*
@@ -42,9 +42,15 @@
 | 2025-04-07 | 修复 [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) 与 [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) 的 Docker 支持问题 |
 | 2025-04-14 | 更新 [diablo 仿真环境](https://github.com/DDTRobot/diablo-sim-env) 中的 Docker 链接 |
 | 2025-11-04 | 更新 [TITATIT 四足轮机器人](https://github.com/DDTRobot/quadruped-wheel-titatit-rl) 的强化学习训练 |
+| 2025-11-20 | 更新 [D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接 |
 
 ### 🍿 官方维护的代码仓库
-
+<style>
+  .robot-col {
+    white-space: nowrap; /* 不换行 */
+    text-align: center;  /* 水平居中 */
+  }
+</style>
 <table>
   <tr>
     <th>机器人</th>
@@ -54,7 +60,14 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='13'>TITA</td>
+    <td rowspan='1' class="robot-col">本末无界</td>
+  	<td rowspan='1'>Simulation</td>
+    <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
+    <td>该 ROS2 工作空间整合了硬件与多平台仿真桥接，并提供支持 FSM 及 ONNX 强化学习推理的机器人控制器。</td>
+    <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td rowspan='13' class="robot-col">TITA</td>
   	<td rowspan='4'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/tita-sim-env">TITA 基础仿真环境</a></td>
   	<td>基于 Webots 的 TITA 基础仿真环境，提供 Windows 和 Linux 可执行示例</td>
@@ -119,7 +132,7 @@
       <td colspan="4"><blockquote><small><h5>注：TITA 可通过 ROS2 control 接口或 USB2CAN 直接控制电机扭矩。如果需要帮助，请提 Issue 或联系我们的 FAE。</h5></small></blockquote></td>
   </tr>
   <tr>   
-	<td rowspan='4'>DIABLO</td>
+	<td rowspan='4' class="robot-col">刑天</td>
     <td rowspan='1'>Simulation</td>
 	<td><a href="https://github.com/DDTRobot/diablo-sim-env">DIABLO 基础仿真环境</a></td>
     <td>基于 Webots 的 DIABLO 仿真环境，包含如何通过 Docker 或系统安装 Webots 的示例</td>
@@ -140,7 +153,7 @@
       <td colspan="4"><blockquote><small><h5>注：如果你想通过关节接口控制 DIABLO，请联系我们的 FAE。</h5></small></blockquote></td>
   </tr>
   <tr>   
-	<td rowspan='2'>MOTOR</td>
+	<td rowspan='2' class="robot-col">电机</td>
   	<td rowspan='2'>Tools</td>
 	<td><a href="https://github.com/DDTRobot/p10-ros2-node">在 TITA 上控制 P10 电机</a></td>
     <td>用于控制单个 P10 电机的 ROS2 节点，P10 是本末科技自研的准直驱电机</td>
@@ -155,7 +168,12 @@
 
 
 ### 🧙 推荐的开发者仓库
-
+<style>
+  .robot-col {
+    white-space: nowrap; /* 不换行 */
+    text-align: center;  /* 水平居中 */
+  }
+</style>
 <table>
   <tr>
     <th>机器人</th>
@@ -163,7 +181,7 @@
   	<th>描述</th>
     <th>Stars</th>
   <tr>
-    <td rowspan='4'>TITA</td>
+    <td rowspan='4' class="robot-col">TITA</td>
     <td><a href="https://github.com/DDTRobot/tita_matlab_ros2">TITA ROS2 MATLAB 示例</a></td>
   	<td>TITA 的 MATLAB 控制示例，使用 TITA 的上层API进行控制，基于 ROS2</td>
   	<td><a href="https://github.com/DDTRobot/tita_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/tita_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
@@ -184,7 +202,7 @@
   	<td><a href="https://github.com/DDTRobot/tita_uwb_follower"><img src="https://img.shields.io/github/stars/ddtrobot/tita_uwb_follower.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td rowspan='4'>DIABLO</td>
+    <td rowspan='4' class="robot-col">刑天</td>
     <td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup">基于 DIABLO 的 CMU 导航方案</a></td>
   	<td>由 CMU 张继 开发的 DIABLO 导航示例：<a href="https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click">点击查看视频</a></td>
   	<td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup"><img src="https://img.shields.io/github/stars/ddtrobot/autonomy_stack_diablo_setup.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>

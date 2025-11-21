@@ -51,9 +51,15 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20250407|Fix docker support bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
 |20250414|Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)|
 |20251104|Update RL training of [titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)|
+|20251120| Update the link for [D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/). |
 
 ### 🍿 Officially Maintained Repositories
-
+<style>
+  .robot-col {
+    white-space: nowrap; /* 不换行 */
+    text-align: center;  /* 水平居中 */
+  }
+</style>
 <table>
   <tr>
     <th>Robot</th>
@@ -63,7 +69,14 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='13'>TITA</td>
+    <td rowspan='1' class="robot-col">D-INFINITE</td>
+  	<td rowspan='1'>Simulation</td>
+    <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
+    <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
+    <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td rowspan='13' class="robot-col">TITA</td>
   	<td rowspan='4'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/tita-sim-env">TITA basic simulation environment</a></td>
   	<td>tita basic simulation environment based on webots, with windows and linux executable samples</td>
@@ -128,7 +141,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
       <td colspan="4"><blockquote><small><h5>Note : TITA can directly control the motor's torque through the ros2 control interface, or USB2CAN. If help is needed leave issue or contact our FAE.</h5></small></blockquote></td>
   </tr>
   <tr>   
-	<td rowspan='4'>DIABLO</td>
+	<td rowspan='4' class="robot-col">DIABLO</td>
     <td rowspan='1'>Simulation</td>
 	<td><a href="https://github.com/DDTRobot/diablo-sim-env">DIABLO basic simulation environment</a></td>
     <td>DIABLO simulation environment based on webots, including how to install webots by docker or on system</td>
@@ -149,7 +162,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
       <td colspan="4"><blockquote><small><h5>Note : If you would like to control the DIABLO via its joint interface, please contact our FAE.</h5></small></blockquote></td>
   </tr>
   <tr>   
-	<td rowspan='2'>MOTOR</td>
+	<td rowspan='2' class="robot-col">MOTOR</td>
   	<td rowspan='2'>Tools</td>
 	<td><a href="https://github.com/DDTRobot/p10-ros2-node">Control the P10 motor on TITA</a></td>
     <td>A ROS2 node to control a single P10 moto, which is a QDD motor developed by Direct Drive Technology</td>
@@ -164,7 +177,12 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 
 ### 🧙 Recommended Developer's Repository
-
+<style>
+  .robot-col {
+    white-space: nowrap; /* 不换行 */
+    text-align: center;  /* 水平居中 */
+  }
+</style>
 <table>
   <tr>
     <th>Robot</th>
@@ -172,7 +190,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   	<th>Descroption</th>
     <th>Stars</th>
   <tr>
-    <td rowspan='4'>TITA</td>
+    <td rowspan='4' class="robot-col">TITA</td>
     <td><a href="https://github.com/DDTRobot/tita_matlab_ros2">TITA ROS2 MATLAB Sample</a></td>
   	<td>TITA's MATLAB Control sample, using high level api of TITA to control, based on ROS2</td>
   	<td><a href="https://github.com/DDTRobot/tita_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/tita_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
@@ -193,7 +211,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   	<td><a href="https://github.com/DDTRobot/tita_uwb_follower"><img src="https://img.shields.io/github/stars/ddtrobot/tita_uwb_follower.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td rowspan='4'>DIABLO</td>
+    <td rowspan='4' class="robot-col">DIABLO</td>
     <td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup">CMU Navigation based on DIABLO</a></td>
   	<td>A navigation example on DIABLO, based on CMU Ji Zhang's work: <a href="https://www.bilibili.com/video/BV1Ws421T7TJ/?spm_id_from=333.1387.homepage.video_card.click">View the video</a></td>
   	<td><a href="https://github.com/DDTRobot/autonomy_stack_diablo_setup"><img src="https://img.shields.io/github/stars/ddtrobot/autonomy_stack_diablo_setup.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
