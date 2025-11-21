@@ -47,8 +47,8 @@
 ### 🍿 官方维护的代码仓库
 <style>
   .robot-col {
-    white-space: nowrap; /* 不换行 */
-    text-align: center;  /* 水平居中 */
+    white-space: nowrap;
+    text-align: center;
   }
 </style>
 <table>

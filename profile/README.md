@@ -56,8 +56,8 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 ### 🍿 Officially Maintained Repositories
 <style>
   .robot-col {
-    white-space: nowrap; /* 不换行 */
-    text-align: center;  /* 水平居中 */
+    white-space: nowrap;
+    text-align: center;
   }
 </style>
 <table>
