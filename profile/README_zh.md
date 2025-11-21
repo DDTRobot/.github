@@ -45,13 +45,13 @@
 | 2025-11-20 | 更新 [D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接 |
 
 ### 🍿 官方维护的代码仓库
-<style>
-  .robot-col {
-    white-space: nowrap;
-    text-align: center;
-  }
-</style>
 <table>
+  <style>
+    .robot-col {
+      white-space: nowrap;
+      text-align: center;
+    }
+  </style>
   <tr>
     <th>机器人</th>
   	<th>类型</th>
@@ -168,13 +168,13 @@
 
 
 ### 🧙 推荐的开发者仓库
-<style>
-  .robot-col {
-    white-space: nowrap; /* 不换行 */
-    text-align: center;  /* 水平居中 */
-  }
-</style>
 <table>
+  <style>
+    .robot-col {
+      white-space: nowrap; /* 不换行 */
+      text-align: center;  /* 水平居中 */
+    }
+  </style>
   <tr>
     <th>机器人</th>
     <th>项目名称</th>

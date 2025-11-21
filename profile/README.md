@@ -54,13 +54,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20251120| Update the link for [D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/). |
 
 ### 🍿 Officially Maintained Repositories
-<style>
-  .robot-col {
-    white-space: nowrap;
-    text-align: center;
-  }
-</style>
 <table>
+  <style>
+    .robot-col {
+      white-space: nowrap;
+      text-align: center;
+    }
+  </style>
   <tr>
     <th>Robot</th>
   	<th>Type</th>
@@ -177,13 +177,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 
 ### 🧙 Recommended Developer's Repository
-<style>
-  .robot-col {
-    white-space: nowrap; /* 不换行 */
-    text-align: center;  /* 水平居中 */
-  }
-</style>
 <table>
+  <style>
+    .robot-col {
+      white-space: nowrap; /* 不换行 */
+      text-align: center;  /* 水平居中 */
+    }
+  </style>
   <tr>
     <th>Robot</th>
     <th>Title</th>
