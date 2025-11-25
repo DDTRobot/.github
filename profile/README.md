@@ -158,7 +158,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   <tr>   
 	<td rowspan='2' class="robot-col">MOTOR</td>
   	<td rowspan='2'>Tools</td>
-	<td><a href="https://github.com/DDTRobot/p10-ros2-node">Control the P10 motor on TITA</a></td>
+	<td><a href="https://github.com/DDTRobot/p10-ros2-node">ROS2 Control the P10 motor</a></td>
     <td>A ROS2 node to control a single P10 moto, which is a QDD motor developed by Direct Drive Technology</td>
     <td><a href="https://github.com/DDTRobot/p10-ros2-node"><img src="https://img.shields.io/github/stars/ddtrobot/p10-ros2-node.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
