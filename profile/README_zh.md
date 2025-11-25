@@ -149,7 +149,7 @@
   <tr>   
 	<td rowspan='2' class="robot-col">电机</td>
   	<td rowspan='2'>Tools</td>
-	<td><a href="https://github.com/DDTRobot/p10-ros2-node">在 TITA 上控制 P10 电机</a></td>
+	<td><a href="https://github.com/DDTRobot/p10-ros2-node">使用 ROS2 控制 P10 电机</a></td>
     <td>用于控制单个 P10 电机的 ROS2 节点，P10 是本末科技自研的准直驱电机</td>
     <td><a href="https://github.com/DDTRobot/p10-ros2-node"><img src="https://img.shields.io/github/stars/ddtrobot/p10-ros2-node.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
