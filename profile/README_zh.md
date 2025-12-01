@@ -43,6 +43,7 @@
 | 2025-04-14 | 更新 [diablo 仿真环境](https://github.com/DDTRobot/diablo-sim-env) 中的 Docker 链接 |
 | 2025-11-04 | 更新 [TITATIT 四足轮机器人](https://github.com/DDTRobot/quadruped-wheel-titatit-rl) 的强化学习训练 |
 | 2025-11-20 | 更新 [D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接 |
+| 2025-12-01 | 更新 [D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接 |
 
 ### 🍿 官方维护的代码仓库
 <table>
@@ -54,8 +55,13 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='1' class="robot-col">本末无界</td>
-  	<td rowspan='1'>Simulation</td>
+    <td rowspan='2' class="robot-col">本末无界</td>
+  	<td rowspan='2'>Simulation</td>
+    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym/">D1 rl isaacgym</a></td>
+    <td>D1基于 Isaac Gym 的机器人强化学习训练框架,用于搭建环境并训练运动控制策略。</td>
+    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>该 ROS2 工作空间整合了硬件与多平台仿真桥接，并提供支持 FSM 及 ONNX 强化学习推理的机器人控制器。</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>

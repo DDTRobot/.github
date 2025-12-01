@@ -52,6 +52,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 |20250414|Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)|
 |20251104|Update RL training of [titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)|
 |20251120| Update the link for [D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/). |
+|20251201| Update the link for [D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym) |
 
 ### 🍿 Officially Maintained Repositories
 <table>
@@ -63,8 +64,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='1'>D&#8209;INFINITE</td>
-  	<td rowspan='1'>Simulation</td>
+    <td rowspan='2'>D&#8209;INFINITE</td>
+  	<td rowspan='2'>Simulation</td>
+    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
+    <td>Isaac Gym Environments for Legged Robots.</td>
+    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
