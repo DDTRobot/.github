@@ -23,7 +23,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 #### D-Infinite
 
-[D-Infinite Manual - Chinese version](https://d1-development-manual-cn.readthedocs.io/en/latest/)
+[D-Infinite Manual - Chinese version](https://d1-development-manual-cn.readthedocs.io/zh-cn/latest/)
+
+
 
 #### TITA
 
@@ -64,7 +66,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='2'>D&#8209;INFINITE</td>
+    <td rowspan='3'>D&#8209;INFINITE</td>
   	<td rowspan='2'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
     <td>Isaac Gym Environments for Legged Robots.</td>
@@ -74,6 +76,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>   
+    <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</h5></small></blockquote></td>
   </tr>
   <tr>
     <td rowspan='13' class="robot-col">TITA</td>

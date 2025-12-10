@@ -15,7 +15,7 @@
 
 #### D-Infinite
 
-[D-Infinite 手册 - 中文版](https://d1-development-manual-cn.readthedocs.io/en/latest/index.html)
+[D-Infinite 手册 - 中文版](https://d1-development-manual-cn.readthedocs.io/zh-cn/latest/index.html)
 
 #### TITA
 
@@ -55,7 +55,7 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='2' class="robot-col">本末无界</td>
+    <td rowspan='3' class="robot-col">本末无界</td>
   	<td rowspan='2'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym/">D1 rl isaacgym</a></td>
     <td>D1基于 Isaac Gym 的机器人强化学习训练框架,用于搭建环境并训练运动控制策略。</td>
@@ -65,6 +65,9 @@
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>该 ROS2 工作空间整合了硬件与多平台仿真桥接，并提供支持 FSM 及 ONNX 强化学习推理的机器人控制器。</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>   
+    <td colspan="4"><blockquote><small><h5>若需查看最新的 D1 ROS2 发布版本(.deb)，请点击<a href="https://github.com/DDTRobot/d1_ros2_release/releases">此处</h5></small></blockquote></td>
   </tr>
   <tr>
     <td rowspan='13' class="robot-col">TITA</td>
