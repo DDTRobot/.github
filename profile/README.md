@@ -25,6 +25,8 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 [D-Infinite Manual - Chinese version](https://d1-development-manual-cn.readthedocs.io/zh-cn/latest/)
 
+[D-Infinite Manual - English version](https://y1.readthedocs.io/en/latest/)
+
 
 
 #### TITA
