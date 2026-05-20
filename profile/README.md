@@ -1,8 +1,9 @@
-**English** | [中文](./README_zh.md) 
+**English** | [中文](./README_zh.md)
 
 # Welcome to Direct Drive Technology Robotics Team
 
 ![direct-drive-logo](https://directdrive.com/public/uploads/images/20220221/4830a265658b4afeeccf7deda5bc044d.png)
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -13,6 +14,7 @@
  Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
 Direct Drive Technology was found in 2020, committed to using direct drive motors to replace the reduction gear in any machine,making the original delicate and noisy traditonal robot reborn.
 
 Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobile robots such as [bipedal-wheel robot](https://www.bilibili.com/video/BV1tM4y1Z7VY?spm_id_from=player_end_recommend_autoplay&vd_source=8ab3473c3214c5120c93d5ac5fbba539) and [quadruped-wheel robot](https://www.bilibili.com/video/BV1Pn4y1R7eg/?spm_id_from=333.337.search-card.all.click). We also use the [modualized designing method](https://www.bilibili.com/video/BV1gf42117yt/?spm_id_from=333.337.search-card.all.click&vd_source=8ab3473c3214c5120c93d5ac5fbba539) to design our robot.
@@ -27,48 +29,48 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 
 [D-Infinite Manual - English version](https://y1.readthedocs.io/en/latest/)
 
-
-
 #### TITA
 
-[TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
+[TITA Manual - Chinese version](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )
 
-[TITA Manual - English version](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)  
+[TITA Manual - English version](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)
 
-[TITA Extension Board Opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
+[TITA Extension Board Opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)
 
-
-> *Note: Since Sept. 2024, All TITA is switched to Ubuntu version. If you are with the Yocto version, refer [here](https://tita-development-manual-ye.readthedocs.io/en/latest/ ) 
-
+> *Note: Since Sept. 2024, All TITA is switched to Ubuntu version. If you are with the Yocto version, refer [here](https://tita-development-manual-ye.readthedocs.io/en/latest/ )
 
 ### Update Info
-| Date        | Brief info   |
-| --------   | -----  |
-|20241104| Add ros2 control interface for joint control in the orin nx of TITA|
-|20241202|Add DIABLO ROS2 MATLAB Control example|
-|20241204|Add TITA ROS2 MATLAB Control example|
-|20250210|[Add Airbot robotics arm control samples](https://github.com/DDTRobot/airbot_on_tita)|
-|20250226|[Add Extension Board hardware opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)|
-|20250309|[Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b](https://github.com/DDTRobot/tita_rl)|
-|20250314|[Add official TITA CANFD reading examples](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)|
-|20250328|[Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
-|20250407|Fix docker support bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker)|
-|20250414|Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)|
-|20251104|Update RL training of [titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)|
-|20251120| Update the link for [D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/). |
-|20251201| Update the link for [D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym) |
+
+
+| Date     | Brief info                                                                                                                                                                                 |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 20241104 | Add ros2 control interface for joint control in the orin nx of TITA                                                                                                                        |
+| 20241202 | Add DIABLO ROS2 MATLAB Control example                                                                                                                                                     |
+| 20241204 | Add TITA ROS2 MATLAB Control example                                                                                                                                                       |
+| 20250210 | [Add Airbot robotics arm control samples](https://github.com/DDTRobot/airbot_on_tita)                                                                                                      |
+| 20250226 | [Add Extension Board hardware opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)                                                                          |
+| 20250309 | [Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b](https://github.com/DDTRobot/tita_rl)                                                                  |
+| 20250314 | [Add official TITA CANFD reading examples](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)                                                                                        |
+| 20250328 | [Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)                                                                                             |
+| 20250407 | Fix docker support bugs in[tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) |
+| 20250414 | Update docker link in[diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)                                                                                           |
+| 20251104 | Update RL training of[titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)                                                                             |
+| 20251120 | Update the link for[D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/).                                                                                |
+| 20251201 | Update the link for[D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                  |
+|20260520|[Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)|
 
 ### 🍿 Officially Maintained Repositories
+
 <table>
   <tr>
     <th>Robot</th>
   	<th>Type</th>
     <th>Title</th>
-  	<th>Descroption</th>
+  	<th>Description</th>
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='3'>D&#8209;INFINITE</td>
+    <td rowspan='5'>D‑INFINITE</td>
   	<td rowspan='2'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
     <td>Isaac Gym Environments for Legged Robots.</td>
@@ -78,6 +80,17 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
     <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td rowspan='2'>Tools</td>
+    <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo">D1 ROS2 SDK Demo</a></td>
+    <td>A quick start demo that runs on D1 ROS2 SDK in a real D1 Robot. Only supported on Ubuntu.</td>
+    <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo"><img src="https://img.shields.io/github/stars/DDTRobot/D1-ROS2-SDK-Demo?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/airbot-environment-deployment">D1 airbot-play Control Demo</a></td>
+    <td>Environment deployment and control demo for the Airbot arm on D1.</td>
+    <td><a href="https://github.com/DDTRobot/airbot-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/airbot-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
     <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</h5></small></blockquote></td>
@@ -182,13 +195,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   </tr>
 </table>
 
-
 ### 🧙 Recommended Developer's Repository
+
 <table>
   <tr>
     <th>Robot</th>
     <th>Title</th>
-  	<th>Descroption</th>
+  	<th>Description</th>
     <th>Stars</th>
   <tr>
     <td rowspan='4' class="robot-col">TITA</td>
@@ -237,5 +250,4 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
   </tr>
 </table>
 
-
->* **English** | [中文](./README_zh.md) 
+> * **English** | [中文](./README_zh.md)
