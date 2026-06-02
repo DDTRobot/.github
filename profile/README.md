@@ -52,12 +52,13 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 2025-03-09 | [Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b](https://github.com/DDTRobot/tita_rl)                                                                  |
 | 2025-03-14 | [Add official TITA CANFD reading examples](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)                                                                                        |
 | 2025-03-28 | [Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)                                                                                             |
-| 2025-04-07 | Fix docker support bugs in [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) |
-| 2025-04-14 | Update docker link in [diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)                                                                                          |
-| 2025-11-04 | Update RL training of [titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)                                                                            |
-| 2025-11-20 | Update the link for [D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                               |
-| 2025-12-01 | Update the link for [D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                 |
+| 2025-04-07 | Fix docker support bugs in[tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) |
+| 2025-04-14 | Update docker link in[diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)                                                                                           |
+| 2025-11-04 | Update RL training of[titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)                                                                             |
+| 2025-11-20 | Update the link for[D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                                 |
+| 2025-12-01 | Update the link for[D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                  |
 | 2026-05-20 | [Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)                          |
+| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab/tree/np3o)                                                                                                      |
 
 ### 🍿 Officially Maintained Repositories
 
@@ -70,11 +71,16 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='5'>D‑INFINITE</td>
-  	<td rowspan='2'>Simulation</td>
+    <td rowspan='6'>D‑INFINITE</td>
+  	<td rowspan='3'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
     <td>Isaac Gym Environments for Legged Robots.</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o">D1 rl isaaclab</a></td>
+    <td>Isaac Lab Environments for Legged Robots.</td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>

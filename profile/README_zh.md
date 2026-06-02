@@ -1,9 +1,8 @@
 [English](./README.md) | **中文**
 
 # 欢迎关注本末机器人
+
 ![direct-drive-logo](https://directdrive.com/public/uploads/images/20220221/4830a265658b4afeeccf7deda5bc044d.png)
-
-
 
 本末科技成立于 2020 年，致力于使用直接驱动电机替代各类机械中的减速机构，让原本结构复杂、噪声较大的传统机器人焕发新生。
 
@@ -21,34 +20,37 @@
 
 #### TITA
 
-[TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )  
+[TITA 手册 - 中文版](https://tita-development-manual-uc.readthedocs.io/zh-cn/latest/ )
 
-[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/) 
+[TITA 手册 - 英文版](https://tita-ubuntu-manual-english.readthedocs.io/en/latest/)
 
-[TITA 扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)  
+[TITA 扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)
 
 > *注：自 2024 年 9 月起，TITA所有系统均已切换至 Ubuntu。若想使用 Yocto 版本，请参考[此处](https://tita-development-manual-ye.readthedocs.io/en/latest/ )。*
 
 ### 更新信息
 
-| 日期       | 更新摘要                                                     |
-| ---------- | ------------------------------------------------------------ |
-| 2024-11-04 | 在 TITA 的 Orin NX 上新增用于关节控制的 ros2_control 接口    |
-| 2024-12-02 | 新增 DIABLO ROS2 MATLAB 控制示例                             |
-| 2024-12-04 | 新增 TITA ROS2 MATLAB 控制示例                               |
-| 2025-02-10 | [新增 Airbot 机械臂控制示例](https://github.com/DDTRobot/airbot_on_tita) |
-| 2025-02-26 | [新增扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620) |
-| 2025-03-09 | [新增官方 TITA 强化学习示例（基于 Isaac Gym 与 Webots 2023b）](https://github.com/DDTRobot/tita_rl) |
-| 2025-03-14 | [新增官方 TITA CANFD 读取示例](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main) |
-| 2025-03-28 | [新增 webots2023b + ros2_control 的 Docker 环境](https://github.com/DDTRobot/webots2023b_ros2_docker) |
-| 2025-04-07 | 修复 [tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) 与 [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) 的 Docker 支持问题 |
-| 2025-04-14 | 更新 [diablo 仿真环境](https://github.com/DDTRobot/diablo-sim-env) 中的 Docker 链接 |
-| 2025-11-04 | 更新 [TITATIT 四足轮机器人](https://github.com/DDTRobot/quadruped-wheel-titatit-rl) 的强化学习训练 |
-| 2025-11-20 | 更新 [D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接 |
-| 2025-12-01 | 更新 [D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接 |
-| 2026-05-20 | 新增 [D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) 与 [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment) |
+
+| 日期       | 更新摘要                                                                                                                                                                          |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-11-04 | 在 TITA 的 Orin NX 上新增用于关节控制的 ros2_control 接口                                                                                                                         |
+| 2024-12-02 | 新增 DIABLO ROS2 MATLAB 控制示例                                                                                                                                                  |
+| 2024-12-04 | 新增 TITA ROS2 MATLAB 控制示例                                                                                                                                                    |
+| 2025-02-10 | [新增 Airbot 机械臂控制示例](https://github.com/DDTRobot/airbot_on_tita)                                                                                                          |
+| 2025-02-26 | [新增扩展板硬件开源](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)                                                                                      |
+| 2025-03-09 | [新增官方 TITA 强化学习示例（基于 Isaac Gym 与 Webots 2023b）](https://github.com/DDTRobot/tita_rl)                                                                               |
+| 2025-03-14 | [新增官方 TITA CANFD 读取示例](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)                                                                                           |
+| 2025-03-28 | [新增 webots2023b + ros2_control 的 Docker 环境](https://github.com/DDTRobot/webots2023b_ros2_docker)                                                                             |
+| 2025-04-07 | 修复[tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) 与 [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) 的 Docker 支持问题      |
+| 2025-04-14 | 更新[diablo 仿真环境](https://github.com/DDTRobot/diablo-sim-env) 中的 Docker 链接                                                                                                |
+| 2025-11-04 | 更新[TITATIT 四足轮机器人](https://github.com/DDTRobot/quadruped-wheel-titatit-rl) 的强化学习训练                                                                                 |
+| 2025-11-20 | 更新[D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接                                                                                  |
+| 2025-12-01 | 更新[D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接                                                                         |
+| 2026-05-20 | 新增[D-INFINITE ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) 与 [D-INFINITE airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment) |
+| 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab/tree/np3o)                                                                                         |
 
 ### 🍿 官方维护的代码仓库
+
 <table>
   <tr>
     <th>机器人</th>
@@ -58,11 +60,16 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='5' class="robot-col">本末无界</td>
-  	<td rowspan='2'>Simulation</td>
+    <td rowspan='6' class="robot-col">本末无界</td>
+  	<td rowspan='3'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym/">D1 rl isaacgym</a></td>
-    <td>D1基于 Isaac Gym 的机器人强化学习训练框架,用于搭建环境并训练运动控制策略。</td>
+    <td>D1基于 Isaac Gym 的机器人强化学习训练框架，用于搭建环境并训练运动控制策略。</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o">D1 rl isaaclab</a></td>
+    <td>D1基于 Isaac Lab 的机器人强化学习训练框架，用于搭建环境并训练运动控制策略。</td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
@@ -183,8 +190,8 @@
   </tr>
 </table>
 
-
 ### 🧙 推荐的开发者仓库
+
 <table>
   <tr>
     <th>机器人</th>
@@ -237,8 +244,6 @@
   	<td colspan='4'><blockquote><small><h4>● 注：以上开发者仓库并非官方维护。<br>● 在这些仓库提交的 Issue 会同步给相关开发者，欢迎反馈。</h4></small></blockquote></td>
   </tr>
 </table>
-
-
 
 ---
 
