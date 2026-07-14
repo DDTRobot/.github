@@ -47,7 +47,7 @@
 | 2025-11-20 | 更新[D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接                                                                                  |
 | 2025-12-01 | 更新[D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接                                                                         |
 | 2026-05-20 | 新增[D-INFINITE ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) 与 [D-INFINITE airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment) |
-| 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab/tree/np3o)                                                                                         |
+| 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab)                                                                                         |
 
 ### 🍿 官方维护的代码仓库
 
@@ -67,9 +67,9 @@
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o">D1 rl isaaclab</a></td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab">D1 rl isaaclab</a></td>
     <td>D1基于 Isaac Lab 的机器人强化学习训练框架，用于搭建环境并训练运动控制策略。</td>
-    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>

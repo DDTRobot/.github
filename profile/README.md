@@ -58,7 +58,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 2025-11-20 | Update the link for[D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                                 |
 | 2025-12-01 | Update the link for[D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                  |
 | 2026-05-20 | [Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)                          |
-| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab/tree/np3o)                                                                                                      |
+| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                      |
 
 ### 🍿 Officially Maintained Repositories
 
@@ -78,9 +78,9 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o">D1 rl isaaclab</a></td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab">D1 rl isaaclab</a></td>
     <td>Isaac Lab Environments for Legged Robots.</td>
-    <td><a href="https://github.com/DDTRobot/DDT_Lab/tree/np3o"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
