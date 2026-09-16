@@ -48,6 +48,7 @@
 | 2025-12-01 | 更新[D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接                                                                         |
 | 2026-05-20 | 新增[D-INFINITE ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) 与 [D-INFINITE airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment) |
 | 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab)                                                                                         |
+| 2026-09-16 | 新增[D-INFINITE Piper 机械臂环境部署与控制示例](https://github.com/DDTRobot/piper-environment-deployment)                                                                          |
 
 ### 🍿 官方维护的代码仓库
 
@@ -60,7 +61,7 @@
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='6' class="robot-col">本末无界</td>
+    <td rowspan='7' class="robot-col">本末无界</td>
   	<td rowspan='3'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym/">D1 rl isaacgym</a></td>
     <td>D1基于 Isaac Gym 的机器人强化学习训练框架，用于搭建环境并训练运动控制策略。</td>
@@ -77,7 +78,7 @@
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td rowspan='2'>Tools</td>
+    <td rowspan='3'>Tools</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo">D1 ROS2 SDK Demo</a></td>
     <td>运行在真实 D1 机器人上的 ROS2 SDK 快速上手示例，仅支持 Ubuntu。</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo"><img src="https://img.shields.io/github/stars/DDTRobot/D1-ROS2-SDK-Demo?cacheSeconds=3600" alt="GitHub stars" ></a></td>
@@ -86,6 +87,11 @@
     <td><a href="https://github.com/DDTRobot/airbot-environment-deployment">D1 airbot-play Control Demo</a></td>
     <td>D1 上 Airbot 机械臂的环境部署与控制示例。</td>
     <td><a href="https://github.com/DDTRobot/airbot-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/airbot-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/piper-environment-deployment">D1 Piper Control Demo</a></td>
+    <td>D1 上 AgileX PiPER 机械臂的环境部署与控制示例。</td>
+    <td><a href="https://github.com/DDTRobot/piper-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/piper-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
     <td colspan="4"><blockquote><small><h5>若需查看最新的 D1 ROS2 发布版本(.deb)，请点击<a href="https://github.com/DDTRobot/d1_ros2_release/releases">此处</h5></small></blockquote></td>
@@ -239,6 +245,12 @@
     <td><a href="https://github.com/DDTRobot/diablo_matlab_ros2">DIABLO ROS2 MATLAB 示例</a></td>
   	<td>基于 ROS2 的 DIABLO MATLAB 控制示例，使用上层API控制 DIABLO</td>
   	<td><a href="https://github.com/DDTRobot/diablo_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/diablo_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td class="robot-col">通用工具</td>
+    <td><a href="https://github.com/Vulcan-YJX/horddt_cv">HORDDT CV</a></td>
+    <td>基于 D-Robotics multimedia SDK 的 C++ 图像处理工具库，提供硬件缩放、裁剪、画中画、旋转、畸变矫正和编解码能力。</td>
+    <td><a href="https://github.com/Vulcan-YJX/horddt_cv"><img src="https://img.shields.io/github/stars/Vulcan-YJX/horddt_cv.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
   	<td colspan='4'><blockquote><small><h4>● 注：以上开发者仓库并非官方维护。<br>● 在这些仓库提交的 Issue 会同步给相关开发者，欢迎反馈。</h4></small></blockquote></td>

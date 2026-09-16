@@ -58,7 +58,8 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 2025-11-20 | Update the link for[D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                                 |
 | 2025-12-01 | Update the link for[D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                  |
 | 2026-05-20 | [Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)                          |
-| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                      |
+| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                                |
+| 2026-09-16 | [Add the D-INFINITE Piper environment deployment and control demo](https://github.com/DDTRobot/piper-environment-deployment)                                                              |
 
 ### 🍿 Officially Maintained Repositories
 
@@ -71,7 +72,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='6'>D‑INFINITE</td>
+    <td rowspan='7'>D‑INFINITE</td>
   	<td rowspan='3'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
     <td>Isaac Gym Environments for Legged Robots.</td>
@@ -88,7 +89,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td rowspan='2'>Tools</td>
+    <td rowspan='3'>Tools</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo">D1 ROS2 SDK Demo</a></td>
     <td>A quick start demo that runs on D1 ROS2 SDK in a real D1 Robot. Only supported on Ubuntu.</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo"><img src="https://img.shields.io/github/stars/DDTRobot/D1-ROS2-SDK-Demo?cacheSeconds=3600" alt="GitHub stars" ></a></td>
@@ -97,6 +98,11 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/airbot-environment-deployment">D1 airbot-play Control Demo</a></td>
     <td>Environment deployment and control demo for the Airbot arm on D1.</td>
     <td><a href="https://github.com/DDTRobot/airbot-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/airbot-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/piper-environment-deployment">D1 Piper Control Demo</a></td>
+    <td>Environment deployment and control demo for the AgileX PiPER robotic arm on D1.</td>
+    <td><a href="https://github.com/DDTRobot/piper-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/piper-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
     <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</h5></small></blockquote></td>
@@ -250,6 +256,12 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/diablo_matlab_ros2">DIABLO ROS2 MATLAB Sample</a></td>
   	<td>MATLAB Control sample, using high level api of DIABLO to control, based on ROS2</td>
   	<td><a href="https://github.com/DDTRobot/diablo_matlab_ros2"><img src="https://img.shields.io/github/stars/ddtrobot/diablo_matlab_ros2.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td class="robot-col">General Tools</td>
+    <td><a href="https://github.com/Vulcan-YJX/horddt_cv">HORDDT CV</a></td>
+    <td>A C++ image-processing toolkit based on the D-Robotics multimedia SDK, providing hardware-accelerated resizing, cropping, picture-in-picture, rotation, distortion correction, and codecs.</td>
+    <td><a href="https://github.com/Vulcan-YJX/horddt_cv"><img src="https://img.shields.io/github/stars/Vulcan-YJX/horddt_cv.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
   	<td colspan='4'><blockquote><small><h4>● Note : The developer's repository is not officialy maintained.<br>● Your issues uploaded to the developer's repository will be synchronized to the developers, which is welcomed.</h4></small></blockquote></td>
