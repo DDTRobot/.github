@@ -2,7 +2,7 @@
 
 # 欢迎关注本末机器人
 
-![direct-drive-logo](https://directdrive.com/public/uploads/images/20220221/4830a265658b4afeeccf7deda5bc044d.png)
+![direct-drive-logo](https://robotics.directdrive.com/img/common/logo.png)
 
 本末科技成立于 2020 年，致力于使用直接驱动电机替代各类机械中的减速机构，让原本结构复杂、噪声较大的传统机器人焕发新生。
 
@@ -47,8 +47,8 @@
 | 2025-11-20 | 更新[D-INFINITE基于ROS2的的sim2sim/sim2real ](https://github.com/DDTRobot/ddt_ros2_control/)链接                                                                                  |
 | 2025-12-01 | 更新[D-INFINITE 基于 Isaac Gym 的机器人强化学习训练框架](https://github.com/DDTRobot/ddt_rl_isaacgym)链接                                                                         |
 | 2026-05-20 | 新增[D-INFINITE ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) 与 [D-INFINITE airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment) |
-| 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab)                                                                                         |
-| 2026-09-16 | 新增[D-INFINITE Piper 机械臂环境部署与控制示例](https://github.com/DDTRobot/piper-environment-deployment)                                                                          |
+| 2026-06-02 | 新增[D-INFINITE IsaacLab 强化学习训练框架](https://github.com/DDTRobot/DDT_Lab)                                                                                                   |
+| 2026-09-16 | 新增[D-INFINITE Piper 机械臂环境部署与控制示例](https://github.com/DDTRobot/piper-environment-deployment)                                                                         |
 
 ### 🍿 官方维护的代码仓库
 
