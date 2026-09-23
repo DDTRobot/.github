@@ -49,6 +49,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 2026-05-20 | [Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)                          |
 | 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                                |
 | 2026-09-16 | [Add the D-INFINITE Piper environment deployment and control demo](https://github.com/DDTRobot/piper-environment-deployment)                                                              |
+| 2026-09-23 | [Add D1 Langyi SDK Demo](https://github.com/DDTRobot/d1_langyi_sdk_demo) and [D1 Follow Control](https://github.com/DDTRobot/d1-follow-control) |
 
 ### 🍿 Officially Maintained Repositories
 
@@ -61,7 +62,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='7'>D‑INFINITE</td>
+    <td rowspan='9'>D‑INFINITE</td>
   	<td rowspan='3'>Simulation</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
     <td>Isaac Gym Environments for Legged Robots.</td>
@@ -78,7 +79,7 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td rowspan='3'>Tools</td>
+    <td rowspan='5'>Tools</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo">D1 ROS2 SDK Demo</a></td>
     <td>A quick start demo that runs on D1 ROS2 SDK in a real D1 Robot. Only supported on Ubuntu.</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo"><img src="https://img.shields.io/github/stars/DDTRobot/D1-ROS2-SDK-Demo?cacheSeconds=3600" alt="GitHub stars" ></a></td>
@@ -92,6 +93,16 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/piper-environment-deployment">D1 Piper Control Demo</a></td>
     <td>Environment deployment and control demo for the AgileX PiPER robotic arm on D1.</td>
     <td><a href="https://github.com/DDTRobot/piper-environment-deployment"><img src="https://img.shields.io/github/stars/DDTRobot/piper-environment-deployment.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/d1_langyi_sdk_demo">D1 Langyi SDK Demo</a></td>
+    <td>D1 Langyi control demo, with source build and deb package installation options.</td>
+    <td><a href="https://github.com/DDTRobot/d1_langyi_sdk_demo"><img src="https://img.shields.io/github/stars/DDTRobot/d1_langyi_sdk_demo.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DDTRobot/d1-follow-control">D1 Follow Control</a></td>
+    <td>Intelligent following control for D1 using an Intel D435i depth camera and UWB.</td>
+    <td><a href="https://github.com/DDTRobot/d1-follow-control"><img src="https://img.shields.io/github/stars/DDTRobot/d1-follow-control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
     <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</h5></small></blockquote></td>
