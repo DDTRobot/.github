@@ -38,47 +38,49 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
 | 2024-12-04 | Add TITA ROS2 MATLAB Control example                                                                                                                                                       |
 | 2025-02-10 | [Add Airbot robotics arm control samples](https://github.com/DDTRobot/airbot_on_tita)                                                                                                      |
 | 2025-02-26 | [Add Extension Board hardware opensource](https://oshwhub.com/jiqiren01/tita-kuo-zhan-jie-kou-kai-yuan-2024-0620)                                                                          |
-| 2025-03-09 | [Add official TITA Reinforcement Learning Sample based on Isaacgym and Webots 2023b](https://github.com/DDTRobot/tita_rl)                                                                  |
 | 2025-03-14 | [Add official TITA CANFD reading examples](https://github.com/DDTRobot/TITA_CAN_Inerface/tree/main)                                                                                        |
 | 2025-03-28 | [Add a webots2023b + ros2 control docker](https://github.com/DDTRobot/webots2023b_ros2_docker)                                                                                             |
 | 2025-04-07 | Fix docker support bugs in[tita_rl_sim2sim2real](https://github.com/DDTRobot/tita_rl_sim2sim2real) <br/> and the [webots_ros2_docker](https://github.com/DDTRobot/webots2023b_ros2_docker) |
 | 2025-04-14 | Update docker link in[diablo simulation environment](https://github.com/DDTRobot/diablo-sim-env)                                                                                           |
 | 2025-11-04 | Update RL training of[titatit-quadruped-wheeled robot](https://github.com/DDTRobot/quadruped-wheel-titatit-rl)                                                                             |
-| 2025-11-20 | Update the link for[D-INFINITE ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                                 |
-| 2025-12-01 | Update the link for[D-INFINITE RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                  |
+| 2025-11-20 | Update the link for [DDT ROS2-based sim2sim/sim2real](https://github.com/DDTRobot/ddt_ros2_control/)                                                                                         |
+| 2025-12-01 | Update the link for [DDT RL Isaac Gym](https://github.com/DDTRobot/ddt_rl_isaacgym)                                                                                                         |
 | 2026-05-20 | [Add D1 ROS2 SDK Demo](https://github.com/DDTRobot/D1-ROS2-SDK-Demo) and [D1 airbot-play Control Demo](https://github.com/DDTRobot/airbot-environment-deployment)                          |
-| 2026-06-02 | [Add D-INFINITE IsaacLab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                                |
+| 2026-06-02 | [Add DDT Isaac Lab RL training](https://github.com/DDTRobot/DDT_Lab)                                                                                                                       |
 | 2026-09-16 | [Add the D-INFINITE Piper environment deployment and control demo](https://github.com/DDTRobot/piper-environment-deployment)                                                              |
 | 2026-09-23 | [Add D1 Langyi SDK Demo](https://github.com/DDTRobot/d1_langyi_sdk_demo) and [D1 Follow Control](https://github.com/DDTRobot/d1-follow-control) |
 
 ### 🍿 Officially Maintained Repositories
 
+Simulation, reinforcement learning training, and sim2sim/sim2real deployment for DDT robots (including D1 and TITA) use the shared frameworks listed below.
+
 <table>
   <tr>
-    <th>Robot</th>
+    <th>Robot / Scope</th>
   	<th>Type</th>
     <th>Title</th>
   	<th>Description</th>
     <th>Stars</th>
   </tr>
   <tr>
-    <td rowspan='9'>D‑INFINITE</td>
-  	<td rowspan='3'>Simulation</td>
-    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">D1 rl isaacgym</a></td>
-    <td>Isaac Gym Environments for Legged Robots.</td>
+    <td rowspan='3'>DDT Robots</td>
+    <td rowspan='3'>Simulation &amp; Training</td>
+    <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym">DDT RL Isaac Gym</a></td>
+    <td>Isaac Gym simulation environments and reinforcement learning training for DDT robots (including D1 and TITA).</td>
     <td><a href="https://github.com/DDTRobot/ddt_rl_isaacgym"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_rl_isaacgym.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DDTRobot/DDT_Lab">D1 rl isaaclab</a></td>
-    <td>Isaac Lab Environments for Legged Robots.</td>
+    <td><a href="https://github.com/DDTRobot/DDT_Lab">DDT RL Isaac Lab</a></td>
+    <td>Isaac Lab simulation environments and reinforcement learning training for DDT robots (including D1 and TITA).</td>
     <td><a href="https://github.com/DDTRobot/DDT_Lab"><img src="https://img.shields.io/github/stars/DDTRobot/DDT_Lab.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">D1 sim2sim/sim2real</a></td>
-    <td>A ROS2 workspace containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
+    <td><a href="https://github.com/DDTRobot/ddt_ros2_control/">DDT sim2sim/sim2real</a></td>
+    <td>A ROS2 workspace for DDT robots (including D1 and TITA), containing hardware/simulation bridges and hybrid controllers capable of FSM logic and ONNX RL inference.</td>
     <td><a href="https://github.com/DDTRobot/ddt_ros2_control"><img src="https://img.shields.io/github/stars/ddtrobot/ddt_ros2_control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>
+    <td rowspan='6'>D‑INFINITE</td>
     <td rowspan='5'>Tools</td>
     <td><a href="https://github.com/DDTRobot/D1-ROS2-SDK-Demo">D1 ROS2 SDK Demo</a></td>
     <td>A quick start demo that runs on D1 ROS2 SDK in a real D1 Robot. Only supported on Ubuntu.</td>
@@ -105,34 +107,10 @@ Direct Drive Technology Robotics Team was setup since 2022, mainly focus on mobi
     <td><a href="https://github.com/DDTRobot/d1-follow-control"><img src="https://img.shields.io/github/stars/DDTRobot/d1-follow-control.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
   </tr>
   <tr>   
-    <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</h5></small></blockquote></td>
+    <td colspan="4"><blockquote><small><h5>To access the latest D1 ROS2 release(.deb), please click <a href="https://github.com/DDTRobot/d1_ros2_release/releases">here</a></h5></small></blockquote></td>
   </tr>
   <tr>
-    <td rowspan='13' class="robot-col">TITA</td>
-  	<td rowspan='4'>Simulation</td>
-    <td><a href="https://github.com/DDTRobot/tita-sim-env">TITA basic simulation environment</a></td>
-  	<td>tita basic simulation environment based on webots, with windows and linux executable samples</td>
-  	<td><a href="https://github.com/DDTRobot/tita-sim-env"><img src="https://img.shields.io/github/stars/ddtrobot/tita-sim-env.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/DDTRobot/TITA_ROS2_Control_Sim">TITA ROS2 Control Sim</a></td>
-    <td>TITA ROS2 Control simulation environment. Webots and Gazebo Supported.</td>
-  	<td><a href="https://github.com/DDTRobot/TITA_ROS2_Control_Sim"><img src="https://img.shields.io/github/stars/ddtrobot/tita_ros2_control_sim.svg?cacheSeconds=7200" alt="GitHub stars" ></a></td>
-  </tr>
-  <tr>   
-    <td><a href="https://github.com/DDTRobot/TITA_Description">TITA URDF Description for ROS2 Control Sim</a></td>
-  	<td>TITA URDF Description, mainly used by ros2 control sim.</td>
-    <td><a href="https://github.com/DDTRobot/TITA_Description"><img src="https://img.shields.io/github/stars/ddtrobot/tita_description.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
-  </tr>
-  <tr>   
-    <td><a href="https://github.com/DDTRobot/tita_rl">TITA RL</a></td>
-    <td>Officially support TITA reinforcement learning environment, as well as the TITATIT-Quadruped mode environment</td>
-    <td><a href="https://github.com/DDTRobot/tita_rl"><img src="https://img.shields.io/github/stars/ddtrobot/tita_rl.svg?cacheSeconds=3600" alt="GitHub stars" ></a></td>
-  </tr>
-  <tr>   
-      <td colspan="4"><blockquote><small><h5>Note: TITA can directly control the motor's torque through the ROS2 control interface, or USB2CAN. If help is needed leave an issue or contact our FAE.</h5></small></blockquote></td>
-  </tr>
-  <tr>
+    <td rowspan='8' class="robot-col">TITA</td>
   	<td rowspan='7'>Tools</td>
     <td><a href="https://github.com/DDTRobot/TITA-SDK-ROS2">TITA ROS2 SDK Demo</a></td>
   	<td>A quick start demo that run on TITA ROS2 SDK in real TITA Robot. Only supported in Ubuntu!!</td>
